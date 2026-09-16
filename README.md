@@ -2,6 +2,8 @@
 
 **Influence Line & Live Load Envelope Calculator for Simply Supported Beam Bridges**
 
+📐 [Verification Study](VERIFICATION.md)
+
 A C# / .NET library and console application that computes AASHTO LRFD HL-93 live load moment and shear envelopes using influence line theory. Built as a transparent, engineer-readable implementation — every design decision is documented and every result is verifiable by hand.
 
 ---
