@@ -138,8 +138,6 @@ Truck + Lane  = 1520.0 + 800.0 = 2320.0 kip·ft  ← governs
 Tandem + Lane = 1200.0 + 800.0 = 2000.0 kip·ft
 ```
 
-For simply supported beams with spans greater than approximately 40 ft, the design truck governs over the design tandem. This is consistent with established AASHTO LRFD practice.
-
 BridgeIL result: **2320.00 kip·ft** ✓
 
 ---
