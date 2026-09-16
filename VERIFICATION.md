@@ -1,6 +1,6 @@
 # Verification Study
 
-All results produced by BridgeIL are verified against closed-form analytical solutions for a simply supported single-span beam. The cases below can be checked independently with a calculator.
+All results produced by BridgeIL are verified against closed-form analytical solutions for a simply supported single-span beam.
 
 **Reference structure:** Simply supported beam, L = 100 ft, step = 0.5 ft
 
