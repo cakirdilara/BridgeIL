@@ -135,11 +135,14 @@ Midspan check (x = 50 ft, truck governs):
 ## Getting started
 
 ```bash
-git clone https://github.com/cakirdilara/BridgeIL.git
+git clone https://github.com/yourusername/BridgeIL.git
 cd BridgeIL
 dotnet build
 cd BridgeIL.Console
 dotnet run
+
+# Output: console table + moment_envelope.png + shear_envelope.png
+# NuGet packages (ScottPlot) are restored automatically on build — no manual install needed.
 ```
 
 Requires .NET 10 or later.
