@@ -149,11 +149,3 @@ Requires .NET 10 or later.
 
 ---
 
-## Roadmap
-
-- [ ] Dynamic load allowance (impact factor)
-- [ ] AASHTO LRFD load factors and load combinations
-- [ ] Multiple presence factors
-- [ ] Continuous beam support
-- [ ] Eurocode EN 1991-2 LM1 / LM2 load models
-- [ ] CSV export for post-processing
