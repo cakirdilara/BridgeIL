@@ -126,7 +126,7 @@ x (ft)     Truck          Tandem         Lane         Governing
 ```
 
 Midspan check (x = 50 ft, truck governs):
-- Middle axle (32 kip) positioned at 50 ft — maximum moment coefficient
+- Middle axle positioned at 50 ft — maximum moment coefficient
 - Front axle at 36 ft, rear axle at 64 ft
 - Truck moment: 1520 kip·ft + Lane: 800 kip·ft = **2320 kip·ft**
 
