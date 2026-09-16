@@ -135,7 +135,7 @@ Midspan check (x = 50 ft, truck governs):
 ## Getting started
 
 ```bash
-git clone https://github.com/yourusername/BridgeIL.git
+git clone https://github.com/cakirdilara/BridgeIL.git
 cd BridgeIL
 dotnet build
 cd BridgeIL.Console
