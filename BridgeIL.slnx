@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BridgeIL.Console/BridgeIL.Console.csproj" />
+  <Project Path="BridgeIL.Core/BridgeIL.Core.csproj" />
+</Solution>
