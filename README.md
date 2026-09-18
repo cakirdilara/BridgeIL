@@ -1,6 +1,8 @@
 # BridgeIL
 ![CI](https://github.com/cakirdilara/BridgeIL/actions/workflows/ci.yml/badge.svg)
+
 📐 [Verification Study](VERIFICATION.md)
+
 **Influence Line & Live Load Envelope Calculator for Simply Supported Beam Bridges**
 
 
